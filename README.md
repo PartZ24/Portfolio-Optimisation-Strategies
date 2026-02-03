@@ -1,0 +1,5 @@
+📈 MSCI Momentum Strategy — Nifty 50 Index
+A Python-based quantitative strategy that implements the MSCI Momentum Index methodology on India's Nifty 50 universe.
+
+Overview
+This project replicates the core logic behind MSCI's momentum factor by ranking Nifty 50 constituents on their historical price performance and constructing a long-only portfolio that tilts toward the strongest momentum names. The goal is to capture the well-documented momentum premium within the Indian equity market.
